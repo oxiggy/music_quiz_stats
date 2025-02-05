@@ -11,10 +11,11 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: '/music_quiz_stats/',
   manifest: true,
   build: {
     manifest: true,
-    outDir: 'build'
+    outDir: './build',
   },
   server: {
     open: true,
