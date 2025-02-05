@@ -1,0 +1,16 @@
+export const oxiggyColorMain = '#00d9b1';
+export const oxiggyColorSoft = 'rgba(0,215,177,0.5)';
+export const tehfreakColorMain = '#ff4d00';
+export const tehfreakColorSoft = 'rgba(253,76,1,0.5)';
+export const disgustColorMain = '#ff0073';
+export const disgustColorSoft = 'rgba(253,0,115,0.5)';
+export const meikuColorMain = '#ff5c95';
+export const meikuColorSoft = 'rgba(253,91,149,0.5)';
+export const brainstormColorMain = '#019662';
+export const brainstormColorSoft = 'rgba(1,149,98,0.5)';
+export const trexColorMain = '#bd24c7';
+export const trexColorSoft = 'rgba(188,36,198,0.5)';
+export const volskaColorMain = '#00e52d';
+export const volskaColorSoft = 'rgba(0,227,46,0.5)';
+export const nokiColorMain = '#fd7120';
+export const nokiColorSoft = 'rgba(251,112,33,0.5)';
